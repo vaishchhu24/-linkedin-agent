@@ -1,0 +1,22 @@
+[Unit]
+Description=LinkedIn Content Generation Agent
+After=network.target
+Wants=network.target
+
+[Service]
+Type=simple
+User=vaishnavisingh
+WorkingDirectory=/Users/vaishnavisingh/Downloads/linkedin_agent
+ExecStart=/usr/bin/python3 /Users/vaishnavisingh/Downloads/linkedin_agent/final_integrated_system.py
+Restart=always
+RestartSec=10
+StandardOutput=journal
+StandardError=journal
+Environment=PYTHONPATH=/Users/vaishnavisingh/Downloads/linkedin_agent
+
+# Logging
+SyslogIdentifier=linkedin-agent
+SyslogFacility=local0
+
+[Install]
+WantedBy=multi-user.target 

@@ -1,0 +1,240 @@
+{
+"content_pillars": [
+        {
+            "title": "Early Stage Struggles of HR Consultants",
+            "description": "Mental, emotional, and practical challenges of transitioning from corporate to consulting.",
+            "topics": [
+                "Leaving corporate safely",
+                "Getting first clients",
+                "Self-doubt and impostor syndrome",
+                "Navigating loneliness and overwhelm"
+            ],
+            "hooks": [
+                "I nearly quit 3 months into consulting. Here\u2019s what saved me.",
+                "95% of new HR consultants face this in year one."
+            ],
+            "template": [
+                "Missed my salary",
+                "Questioned my decision",
+                "Felt like no one got it",
+                "Built a supportive HR network",
+                "Learned value-based pricing",
+                "Learned to say 'no'"
+            ]
+        },
+        {
+            "title": "Pricing & Money Talk",
+            "description": "Guidance on pricing models, objections, and mindset shifts.",
+            "topics": [
+                "Charging per hour vs value-based pricing",
+                "Handling 'you\u2019re too expensive'",
+                "Undervaluing your services"
+            ],
+            "hooks": [
+                "\u2018You\u2019re too expensive.\u2019 I hear this every week.",
+                "How these 3 clients replaced their corporate salaries ($1.25M combined)"
+            ],
+            "template": {
+                "clients": [
+                    {
+                        "name": "Client 1",
+                        "revenue": "$500K",
+                        "duration": "2 years"
+                    },
+                    {
+                        "name": "Client 2",
+                        "revenue": "$495K",
+                        "duration": "18 months"
+                    },
+                    {
+                        "name": "Client 3",
+                        "revenue": "$255K",
+                        "duration": "8 months"
+                    }
+                ],
+                "how": [
+                    "Clear on outcomes",
+                    "Found their audience",
+                    "Priced with confidence"
+                ]
+            }
+        },
+        {
+            "title": "Case Studies",
+            "description": "Showcasing client results and frameworks.",
+            "topics": [
+                "Revenue growth",
+                "Client acquisition",
+                "System implementation"
+            ],
+            "hooks": [
+                "How we helped one HR consultant go from 0 to 5 clients in 60 days.",
+                "This one shift added $20K to her monthly revenue."
+            ],
+            "template": {
+                "transformation": [
+                    "Added $40,000",
+                    "Landed 5 clients",
+                    "Built 3 productised offers",
+                    "Replaced corporate income"
+                ],
+                "steps": [
+                    "Identify ideal client",
+                    "Clarify value prop",
+                    "Package and price services",
+                    "Show up consistently on LinkedIn"
+                ]
+            }
+        },
+        {
+            "title": "Opinion & Industry Trends",
+            "description": "Reflections on HR consulting and market myths.",
+            "topics": [
+                "Saturation myths",
+                "Collaboration over competition",
+                "Trends in HR tech/fractional leadership"
+            ],
+            "hooks": [
+                "There are a lot of HR consultants entering the market and that's a good thing."
+            ],
+            "template": [
+                "The market is ready",
+                "Companies are looking",
+                "Collaboration = superpower",
+                "Partner up",
+                "Pitch bigger projects",
+                "Reach out boldly"
+            ]
+        },
+        {
+            "title": "Behind-the-Scenes & Personal Storytelling",
+            "description": "Sharing personal lessons, failures, and emotional milestones.",
+            "topics": [
+                "Life timelines",
+                "Mistakes made",
+                "Moments of doubt"
+            ],
+            "hooks": [
+                "In my first two years, I lost a lot of money because of this\u2026",
+                "Here\u2019s the single decision that saved my business."
+            ],
+            "template": [
+                "Said yes to too much",
+                "Didn't set boundaries",
+                "Clear scope in SOW",
+                "Fixed value rates",
+                "Clarity over kindness"
+            ]
+        },
+        {
+            "title": "Quiz & Interactive Content",
+            "description": "Engaging quiz-style content that helps HR consultants self-assess and learn.",
+            "topics": [
+                "HR consultant readiness quiz",
+                "Pricing confidence assessment",
+                "Client acquisition strategy quiz",
+                "Business model evaluation"
+            ],
+            "hooks": [
+                "HR Consultant Survival Quiz (bit of fun for today!)",
+                "Quick quiz: Are you ready to scale your HR consultancy?",
+                "Give yourself 1 point for every YES:",
+                "How confident are you in your pricing? Let's find out!",
+                "This 5-minute quiz will tell you exactly where to focus next"
+            ],
+            "template": {
+                "quiz_format": [
+                    "Give yourself 1 point for every YES:",
+                    "1️⃣ [Question 1]",
+                    "2️⃣ [Question 2]", 
+                    "3️⃣ [Question 3]",
+                    "4️⃣ [Question 4]",
+                    "5️⃣ [Question 5]",
+                    "Your Score:",
+                    "🟢 0–1: [Result for low score]",
+                    "🟡 2–3: [Result for medium score]",
+                    "🔴 4–5: [Result for high score]"
+                ],
+                "quiz_types": [
+                    "survival_quiz",
+                    "confidence_assessment", 
+                    "readiness_check",
+                    "strategy_evaluation"
+                ]
+            }
+        },
+        {
+            "title": "Story Hooks & Personal Tales",
+            "description": "Different ways to start stories and share personal experiences.",
+            "topics": [
+                "Client meeting stories",
+                "Mistakes and lessons learned",
+                "Breakthrough moments",
+                "Behind-the-scenes consulting life"
+            ],
+            "hooks": [
+                "Picture this: [scene setting]",
+                "I'll never forget the day...",
+                "Here's what happened in my client meeting yesterday...",
+                "This is embarrassing to admit, but...",
+                "I made a HUGE mistake last week...",
+                "The moment I realized I was doing it all wrong...",
+                "Yesterday, I had a client who...",
+                "I was about to give up when...",
+                "The email that changed everything...",
+                "My biggest consulting fail (and what I learned)"
+            ],
+            "template": {
+                "story_structure": [
+                    "Set the scene",
+                    "Present the challenge",
+                    "Share the solution",
+                    "Reveal the outcome",
+                    "Extract the lesson"
+                ]
+            }
+        },
+        {
+            "title": "Question & Reflection Hooks",
+            "description": "Thought-provoking questions that make people pause and think.",
+            "topics": [
+                "Self-reflection prompts",
+                "Industry questions",
+                "Business model questions",
+                "Future planning questions"
+            ],
+            "hooks": [
+                "Ever wondered why some HR consultants succeed while others struggle?",
+                "What if I told you that...",
+                "Here's a question I ask every HR consultant I work with...",
+                "Quick question: Are you building a business or a job?",
+                "What's the ONE thing holding you back from scaling?",
+                "When was the last time you...",
+                "How often do you...",
+                "What would happen if you...",
+                "Why do so many HR consultants...",
+                "Have you ever felt like..."
+            ],
+            "template": {
+                "question_types": [
+                    "reflection_questions",
+                    "industry_questions",
+                    "business_questions",
+                    "future_questions"
+                ]
+            }
+        }
+    ],
+    "bonus_formats": [
+        "Best time to post: 12:15 PM",
+        "Quotation hooks",
+        "Data-driven case studies",
+        "Event recaps",
+        "How-To articles",
+        "Fun quizzes and checklists",
+        "Personal story revelations",
+        "Behind-the-scenes moments",
+        "Vulnerability shares",
+        "Mission statements"
+    ]
+}

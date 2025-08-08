@@ -1,0 +1,56 @@
+{
+  "tone_preferences": [
+    "Authentic and conversational",
+    "No overly promotional language",
+    "Share real experiences and lessons learned",
+    "Be encouraging but not preachy",
+    "Use casual, friendly tone",
+    "Avoid robotic or formal lingo"
+  ],
+  "content_preferences": [
+    "Focus on HR consulting challenges and solutions",
+    "Share behind-the-scenes insights",
+    "Include practical tips and actionable advice",
+    "Avoid generic motivational content",
+    "Use real Reddit insights for authenticity",
+    "Focus on specific pain points HR consultants face"
+  ],
+  "style_preferences": [
+    "Use short paragraphs for readability",
+    "Include personal stories when relevant",
+    "Keep it casual and natural",
+    "End with encouragement or reflection",
+    "Use 2-3 hashtags maximum",
+    "Write 120-180 words"
+  ],
+  "avoid": [
+    "Overly promotional language",
+    "Generic motivational quotes",
+    "Hard selling or aggressive CTAs",
+    "Story format (prefer other content pillars)",
+    "Workshop announcements",
+    "Free webinar promotions",
+    "Join my mastermind calls",
+    "Sign up for free sessions"
+  ],
+  "recent_feedback": [
+    "Posts should feel authentic and not AI-generated",
+    "Focus on real HR consultant struggles and solutions",
+    "Keep the tone conversational and relatable",
+    "Avoid making up hypothetical data",
+    "Use diversity in opening hooks",
+    "Make posts feel like real conversations"
+  ],
+  "content_pillars": [
+    "Pricing & Money Talk",
+    "Case Studies",
+    "Opinion & Industry Trends",
+    "Behind-the-Scenes"
+  ],
+  "hook_preferences": [
+    "Short and compelling",
+    "Diverse opening sentences",
+    "Avoid repeated phrases like 'ever wondered'",
+    "Make hooks feel natural and conversational"
+  ]
+} 

@@ -1,0 +1,13 @@
+[
+    {
+      "client_id": "sam",
+      "feedback": "Tone too soft. Be bolder with opinions.",
+      "applies_to": "tone"
+    },
+    {
+      "client_id": "sam",
+      "feedback": "The CTA feels too formal. Make it casual.",
+      "applies_to": "cta"
+    }
+  ]
+  

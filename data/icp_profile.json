@@ -1,0 +1,59 @@
+{
+    "Ideal Client Profiles": [
+        {
+            "Segment": "Business Club Member",
+            "Overview": "Early-stage HR consultants or solo HR founders who\u2019ve made the leap from corporate\u2014now looking to build a profitable and sustainable business model that aligns with their values and life. Typically in their first 1\u20135 years of business.",
+            "Who They Are": [
+                "Ambitious, heart-led HR professionals turned business owners.",
+                "Seeking clarity, community, and momentum\u2014not just tactics.",
+                "Craving a blend of high-touch support and self-paced progress."
+            ],
+            "Primary Goals": [
+                "Attract and retain ideal clients consistently.",
+                "Gain confidence in pricing, positioning, and pitching.",
+                "Build systems that scale their time and energy.",
+                "Feel less isolated in decision-making."
+            ],
+            "Challenges Faced": [
+                "Scaling Uncertainty: Unsure how to evolve from referrals and reactionary work to a predictable business engine.",
+                "Loneliness: Miss the camaraderie and strategic sparring of corporate\u2014now working solo and second-guessing themselves.",
+                "DIY Fatigue: Tired of Googling and guesswork; want proven frameworks tailored to HR consultancy.",
+                "Overgiving: Struggle to set boundaries with clients, leading to scope creep and burnout.",
+                "Imposter Syndrome: Despite decades of HR expertise, feel underqualified as \u201centrepreneurs.\u201d"
+            ],
+            "Psychographics": [
+                "Growth-oriented but wary of bro-marketing and superficial gurus.",
+                "Deep care for clients and people, but need sharper commercial skills.",
+                "Want to be seen, celebrated, and supported\u2014not just sold to."
+            ]
+        },
+        {
+            "Segment": "Mastermind Member",
+            "Overview": "Established HR consultancy founders ready to scale with sophistication or fresh out corporate strategic level individuals who want to scale rapidly and are not afriad to invest in that.  Typically 3\u20137 years into business and have tasted success\u2014but want more control, more clarity, and more cashflow. They\u2019re often the \"go-to\" in their network but feel stuck at their current ceiling.",
+            "Who They Are": [
+                "Visionary, resilient, and often juggling a small team or associate model.",
+                "Already earning, but now want to earn well\u2014with less chaos.",
+                "Hungry for peer-level challenge, higher thinking, and leveraged growth."
+            ],
+            "Primary Goals": [
+                "Refine their offer suite and raise pricing with confidence.",
+                "Build a pipeline that doesn't rely on hustle or hope.",
+                "Step into a thought-leader/advisory role with gravitas.",
+                "Design a business model that doesn\u2019t depend on their every hour."
+            ],
+            "Challenges Faced": [
+                "Strategic Stagnation: Not sure how to evolve from consultant to business owner/CEO.",
+                "Team Pressure: Managing (or thinking of hiring) associates but worried about quality, cost, and capacity.",
+                "Sophisticated Sales: Want to win bigger retainers or corporate contracts but feel unsure how to pitch or package it.",
+                "Time Leverage: Drowning in delivery, unsure what to delegate or automate.",
+                "Brand Positioning: Struggle to communicate their full value and stand out in a crowded market.",
+                "Scaling with Integrity: Want growth\u2014but not at the expense of their boundaries, values, or wellbeing."
+            ],
+            "Psychographics": [
+                "Smart, self-aware, and emotionally intelligent.",
+                "Not afraid of doing the work\u2014but need it to count.",
+                "Value strategy over tactics, connection over competition, and sustainability over speed."
+            ]
+        }
+    ]
+}

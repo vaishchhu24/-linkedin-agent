@@ -1,0 +1,1 @@
+worker: python automated_workflow.py 

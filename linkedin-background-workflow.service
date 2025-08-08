@@ -1,0 +1,22 @@
+[Unit]
+Description=LinkedIn Background Workflow System
+After=network.target
+Wants=network.target
+
+[Service]
+Type=simple
+User=vaishnavisingh
+WorkingDirectory=/Users/vaishnavisingh/Downloads/linkedin_agent
+ExecStart=/usr/bin/python3 /Users/vaishnavisingh/Downloads/linkedin_agent/background_workflow_system.py start
+ExecStop=/usr/bin/python3 /Users/vaishnavisingh/Downloads/linkedin_agent/background_workflow_system.py stop
+Restart=always
+RestartSec=10
+StandardOutput=journal
+StandardError=journal
+SyslogIdentifier=linkedin-workflow
+
+# Environment variables
+Environment=PYTHONPATH=/Users/vaishnavisingh/Downloads/linkedin_agent
+
+[Install]
+WantedBy=multi-user.target 

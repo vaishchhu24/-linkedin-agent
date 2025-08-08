@@ -1,0 +1,163 @@
+{
+  "content_generation_system": {
+    "voice_standards": {
+      "required_elements": [
+        "Conversational, direct tone",
+        "Personal experience or client story",
+        "Specific pain point identification",
+        "Actionable insight or lesson",
+        "Direct address to reader with 'you'"
+      ],
+      "forbidden_elements": [
+        "Generic corporate language",
+        "More than 3 hashtags",
+        "Link drops without context",
+        "Hypothetical scenarios",
+        "Overly formal business speak",
+        "Generic motivational content"
+      ]
+    },
+    "post_structure": {
+      "hook_requirements": {
+        "types": [
+          "Rhetorical question",
+          "Personal anecdote opening",
+          "Problem identification",
+          "Contrarian opinion",
+          "Specific outcome mention"
+        ],
+        "examples": [
+          "Can you believe it? We're on the cusp of a brand-new year",
+          "What's the longest sales cycle you've ever had? It took me 18 months",
+          "I recently worked with an HR director who was tired of the corporate hamster wheel",
+          "There are a lot of HR consultants entering the market and that's a good thing",
+          "How we helped one HR consultant go from 0 to 5 clients in 60 days"
+        ]
+      },
+      "body_structure": [
+        "Problem/Challenge identification",
+        "Personal experience or client story",
+        "Specific insight or lesson learned",
+        "Actionable takeaway for reader"
+      ],
+      "closing_requirements": [
+        "Direct call to action",
+        "Relatable closing question",
+        "Invitation to engage"
+      ]
+    },
+    "content_categories": {
+      "story_based_posts": {
+        "purpose": "Share personal/client experiences with lessons",
+        "structure": [
+          "Hook with specific situation",
+          "Story with conflict/challenge",
+          "Resolution or insight",
+          "Universal lesson for audience"
+        ],
+        "topics": [
+          "Corporate transition challenges",
+          "Client transformation stories",
+          "Personal business lessons",
+          "Overcoming imposter syndrome"
+        ]
+      },
+      "opinion_pieces": {
+        "purpose": "Challenge common misconceptions or share contrarian views",
+        "structure": [
+          "Hook with controversial statement",
+          "Why common belief is wrong",
+          "Personal reasoning/experience",
+          "Better perspective to adopt"
+        ],
+        "topics": [
+          "Market saturation myths",
+          "Pricing misconceptions",
+          "Media influence on mindset",
+          "Industry trend analysis"
+        ]
+      },
+      "how_to_guides": {
+        "purpose": "Provide practical, actionable advice",
+        "structure": [
+          "Hook with specific problem",
+          "Personal experience with solution",
+          "Step-by-step actionable advice",
+          "Expected outcome"
+        ],
+        "topics": [
+          "Pricing strategies",
+          "Client acquisition",
+          "Business systems",
+          "Mindset shifts"
+        ]
+      },
+      "case_studies": {
+        "purpose": "Showcase real client results",
+        "structure": [
+          "Hook with specific outcome",
+          "Client's starting situation",
+          "Process or approach used",
+          "Results and lessons"
+        ],
+        "requirements": [
+          "Real numbers and outcomes",
+          "Specific timeframes",
+          "Actionable insights",
+          "Relatable challenges"
+        ]
+      }
+    },
+    "quality_checks": {
+      "before_posting": [
+        "Does this sound like the client's authentic voice?",
+        "Is there a personal story or experience?",
+        "Does it address a specific pain point?",
+        "Are there actionable takeaways?",
+        "Is the tone conversational and direct?",
+        "Are hashtags limited to 2-3 relevant ones?",
+        "Does it avoid generic corporate language?",
+        "Is the audience clearly HR professionals transitioning to consulting?"
+      ],
+      "red_flags": [
+        "Generic motivational content",
+        "Link drops without context",
+        "More than 3 hashtags",
+        "Overly formal language",
+        "Hypothetical scenarios",
+        "No personal voice or experience"
+      ]
+    },
+    "hashtag_strategy": {
+      "primary_hashtags": [
+        "#hrconsultants",
+        "#hrleaders",
+        "#hrcommunity"
+      ],
+      "secondary_hashtags": [
+        "#hrconsulting",
+        "#businesscoaching",
+        "#hrfounders"
+      ],
+      "rules": [
+        "Maximum 3 hashtags per post",
+        "Always include at least one primary hashtag",
+        "Use hashtags that match the client's audience",
+        "Avoid generic business hashtags"
+      ]
+    },
+    "content_calendar_themes": {
+      "monday": "Mindset and confidence building",
+      "tuesday": "Pricing and profitability",
+      "wednesday": "Client acquisition strategies",
+      "thursday": "Business systems and processes",
+      "friday": "Personal stories and lessons learned"
+    },
+    "tone_adaptation": {
+      "when_sharing_success": "Humble and grateful, focus on lessons learned",
+      "when_addressing_challenges": "Empathetic and solution-focused",
+      "when_sharing_opinions": "Confident but not arrogant, backed by experience",
+      "when_giving_advice": "Direct and practical, avoid generic platitudes"
+    }
+  }
+} 

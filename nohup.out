@@ -1,0 +1,167 @@
+/Users/vaishnavisingh/Library/Python/3.9/lib/python/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+INFO:rag_memory:📚 Loading existing FAISS index
+INFO:rag_memory:📚 RAG Memory initialized
+/Users/vaishnavisingh/Library/Python/3.9/lib/python/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+/Users/vaishnavisingh/Downloads/linkedin_agent/hook_agent.py:23: LangChainDeprecationWarning: The class `ChatOpenAI` was deprecated in LangChain 0.0.10 and will be removed in 1.0. An updated version of the class exists in the :class:`~langchain-openai package and should be used instead. To use it run `pip install -U :class:`~langchain-openai` and import as `from :class:`~langchain_openai import ChatOpenAI``.
+  self.llm = ChatOpenAI(
+/Users/vaishnavisingh/Downloads/linkedin_agent/hook_agent.py:29: LangChainDeprecationWarning: Please see the migration guide at: https://python.langchain.com/docs/versions/migrating_memory/
+  self.memory = ConversationBufferMemory(memory_key="chat_history")
+/Users/vaishnavisingh/Downloads/linkedin_agent/hook_agent.py:51: LangChainDeprecationWarning: LangChain agents will continue to be supported, but it is recommended for new use cases to be built with LangGraph. LangGraph offers a more flexible and full-featured framework for building agents, including support for tool-calling, persistence of state, and human-in-the-loop workflows. For details, refer to the `LangGraph documentation <https://langchain-ai.github.io/langgraph/>`_ as well as guides for `Migrating from AgentExecutor <https://python.langchain.com/docs/how_to/migrate_agent/>`_ and LangGraph's `Pre-built ReAct agent <https://langchain-ai.github.io/langgraph/how-tos/create-react-agent/>`_.
+  self.agent = initialize_agent(
+INFO:faiss.loader:Loading faiss.
+INFO:faiss.loader:Successfully loaded faiss.
+INFO:faiss:Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+🚀 Background Workflow System for LinkedIn Content
+================================================================================
+👤 Client: Sam Eaton
+📧 Client Email: vaishnavisingh24011@gmail.com
+================================================================================
+📧 Email Schedule:
+   Email 1: 09:00 Europe/London
+   Email 2: 10:00 Europe/London
+   Email 3: 11:00 Europe/London
+================================================================================
+❌ Background workflow is already running (PID: 7079)
+💡 Use 'python3 background_workflow_system.py stop' to stop it first
+/Users/vaishnavisingh/Library/Python/3.9/lib/python/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+INFO:rag_memory:📚 Loading existing FAISS index
+INFO:rag_memory:📚 RAG Memory initialized
+/Users/vaishnavisingh/Library/Python/3.9/lib/python/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+/Users/vaishnavisingh/Downloads/linkedin_agent/hook_agent.py:23: LangChainDeprecationWarning: The class `ChatOpenAI` was deprecated in LangChain 0.0.10 and will be removed in 1.0. An updated version of the class exists in the :class:`~langchain-openai package and should be used instead. To use it run `pip install -U :class:`~langchain-openai` and import as `from :class:`~langchain_openai import ChatOpenAI``.
+  self.llm = ChatOpenAI(
+/Users/vaishnavisingh/Downloads/linkedin_agent/hook_agent.py:29: LangChainDeprecationWarning: Please see the migration guide at: https://python.langchain.com/docs/versions/migrating_memory/
+  self.memory = ConversationBufferMemory(memory_key="chat_history")
+/Users/vaishnavisingh/Downloads/linkedin_agent/hook_agent.py:51: LangChainDeprecationWarning: LangChain agents will continue to be supported, but it is recommended for new use cases to be built with LangGraph. LangGraph offers a more flexible and full-featured framework for building agents, including support for tool-calling, persistence of state, and human-in-the-loop workflows. For details, refer to the `LangGraph documentation <https://langchain-ai.github.io/langgraph/>`_ as well as guides for `Migrating from AgentExecutor <https://python.langchain.com/docs/how_to/migrate_agent/>`_ and LangGraph's `Pre-built ReAct agent <https://langchain-ai.github.io/langgraph/how-tos/create-react-agent/>`_.
+  self.agent = initialize_agent(
+INFO:faiss.loader:Loading faiss.
+INFO:faiss.loader:Successfully loaded faiss.
+INFO:faiss:Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+INFO:email_handler.real_email_fetcher:📧 Real Email Fetcher initialized for: vaishchhu24@gmail.com
+INFO:email_handler.email_scheduler:📅 Email Scheduler initialized
+INFO:email_handler.real_email_fetcher:📧 Real Email Fetcher initialized for: vaishchhu24@gmail.com
+INFO:email_handler.real_email_fetcher:📧 Real Email Fetcher initialized for: vaishchhu24@gmail.com
+INFO:email_handler.email_scheduler:📅 Email Scheduler initialized
+INFO:rag_memory:📚 Loading existing FAISS index
+INFO:rag_memory:📚 RAG Memory initialized
+INFO:content_handler.post_generator:🎯 Post Generator initialized
+INFO:content_handler.post_generator:🔧 Fine-tuned model ID: ft:gpt-3.5-turbo-1106:personal:linkedintone:By2MD8pX
+INFO:content_handler.post_generator:🔧 Base model: gpt-4
+INFO:content_handler.content_assessor:🔍 Content Assessor initialized
+INFO:rag_memory:📚 Loading existing FAISS index
+INFO:rag_memory:📚 RAG Memory initialized
+INFO:content_handler.post_generator:🎯 Post Generator initialized
+INFO:content_handler.post_generator:🔧 Fine-tuned model ID: ft:gpt-3.5-turbo-1106:personal:linkedintone:By2MD8pX
+INFO:content_handler.post_generator:🔧 Base model: gpt-4
+INFO:content_handler.content_assessor:🔍 Content Assessor initialized
+INFO:content_handler.insight_fetcher:🔍 Insight Fetcher initialized
+INFO:rag_memory:📚 Loading existing FAISS index
+INFO:rag_memory:📚 RAG Memory initialized
+INFO:enhanced_feedback_processor:🔄 Enhanced Feedback Processor initialized
+INFO:final_integrated_system:🚀 Final Integrated LinkedIn Content System initialized
+INFO:final_integrated_system:👤 Client: Sam Eaton
+INFO:final_integrated_system:📧 Monitoring: vaishchhu24@gmail.com
+INFO:final_integrated_system:📧 Client Email: vaishnavisingh24011@gmail.com
+INFO:rag_memory:📚 Loading existing FAISS index
+INFO:rag_memory:📚 RAG Memory initialized
+INFO:content_handler.post_generator:🎯 Post Generator initialized
+INFO:content_handler.post_generator:🔧 Fine-tuned model ID: ft:gpt-3.5-turbo-1106:personal:linkedintone:By2MD8pX
+INFO:content_handler.post_generator:🔧 Base model: gpt-4
+INFO:content_handler.content_assessor:🔍 Content Assessor initialized
+INFO:content_handler.insight_fetcher:🔍 Insight Fetcher initialized
+INFO:rag_memory:📚 Loading existing FAISS index
+INFO:rag_memory:📚 RAG Memory initialized
+INFO:enhanced_feedback_processor:🔄 Enhanced Feedback Processor initialized
+INFO:__main__:🚀 Background Workflow System initialized
+INFO:__main__:🚀 Starting Background Workflow System
+INFO:__main__:================================================================================
+INFO:__main__:📋 System Features:
+INFO:__main__:   📧 3 daily emails at 1-hour intervals (9 AM, 10 AM, 11 AM UK)
+INFO:__main__:   🔄 Continuous email monitoring
+INFO:__main__:   🧠 AI-powered content generation
+INFO:__main__:   📚 RAG-enhanced learning
+INFO:__main__:   🔄 Client feedback processing
+INFO:__main__:================================================================================
+INFO:__main__:📝 PID file written: background_workflow.pid
+INFO:__main__:📅 Starting email scheduler...
+INFO:apscheduler.scheduler:Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO:email_handler.email_scheduler:📅 Scheduled email 1 for 09:00 Europe/London
+INFO:apscheduler.scheduler:Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO:email_handler.email_scheduler:📅 Scheduled email 2 for 10:00 Europe/London
+INFO:apscheduler.scheduler:Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO:email_handler.email_scheduler:📅 Scheduled email 3 for 11:00 Europe/London
+INFO:apscheduler.scheduler:Added job "Send daily LinkedIn post prompt 1" to job store "default"
+INFO:apscheduler.scheduler:Added job "Send daily LinkedIn post prompt 2" to job store "default"
+INFO:apscheduler.scheduler:Added job "Send daily LinkedIn post prompt 3" to job store "default"
+INFO:apscheduler.scheduler:Scheduler started
+INFO:email_handler.email_scheduler:✅ Email scheduler started - 3 daily prompts scheduled at 09:00, 10:00, 11:00 Europe/London
+INFO:__main__:✅ Background workflow system started successfully
+INFO:__main__:🔄 System is now running in background mode
+INFO:__main__:📧 Email schedule:
+INFO:__main__:   Email 1: 09:00 Europe/London
+INFO:__main__:   Email 2: 10:00 Europe/London
+INFO:__main__:   Email 3: 11:00 Europe/London
+INFO:__main__:================================================================================
+INFO:__main__:🔄 Starting background processing loop
+INFO:__main__:   📧 Email check interval: 60s (fast response)
+INFO:__main__:   🔄 Feedback check interval: 300s (efficient)
+INFO:__main__:
+🔄 Background Cycle 1 - 2025-08-03 15:49:36 UTC
+INFO:__main__:------------------------------------------------------------
+INFO:__main__:📧 Checking for email replies...
+INFO:final_integrated_system:📧 Phase 1: Email Monitoring
+INFO:final_integrated_system:🔍 Checking for new email replies...
+INFO:email_handler.real_email_fetcher:✅ Connected to email inbox
+INFO:email_handler.real_email_fetcher:📧 Found LinkedIn reply: Re: What's on your mind for your LinkedIn post today?
+INFO:email_handler.real_email_fetcher:✅ Fetched 1 recent replies
+INFO:final_integrated_system:📧 New email from: vaishnavi <vaishnavisingh24011@gmail.com>
+INFO:final_integrated_system:📝 Subject: Re: What's on your mind for your LinkedIn post today?
+INFO:final_integrated_system:📄 Content: Yes, I met a friend at a co-working space—she had just started her own
+business and was full of ide...
+INFO:final_integrated_system:✅ Found 1 new email replies
+INFO:__main__:📧 Found 1 new email replies - processing immediately!
+INFO:final_integrated_system:🧠 Phase 2: Content Generation
+INFO:final_integrated_system:🔄 Processing email reply...
+INFO:content_handler.content_assessor:🔍 Extracting content elements...
+INFO:content_handler.content_assessor:📝 Detected 'Yes' response with topic - processing content
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:content_handler.content_assessor:✅ Content elements extracted successfully
+INFO:final_integrated_system:📊 Content assessment: detailed
+INFO:final_integrated_system:📝 CASE 1: Generating from detailed content...
+INFO:content_handler.post_generator:🎯 Generating post from detailed content
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:rag_memory:🔍 Retrieving ALL posts for tone and style learning (topic: Yes, I met a friend at a co-working)
+INFO:rag_memory:📚 Using simple fallback (FAISS index has 4 posts, need 19)
+INFO:rag_memory:📚 Retrieved 19 posts for tone and style learning
+INFO:content_handler.post_generator:📚 Retrieved ALL 19 approved posts for RAG context
+INFO:content_handler.post_generator:🎯 Using base model for RAG tone adaptation
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:content_handler.post_generator:✅ Generated post using base model for tone adaptation (length: 1544)
+INFO:content_handler.post_generator:🎭 Adding conversational elements...
+INFO:final_integrated_system:✅ Post generated and logged to Airtable
+INFO:final_integrated_system:✅ Generated 1 posts
+INFO:__main__:📝 Generated 1 posts from 1 emails
+INFO:__main__:⏳ Skipping feedback check (not time yet)
+INFO:__main__:⏳ Waiting 60 seconds before next email check...
+INFO:__main__:
+🔄 Background Cycle 2 - 2025-08-03 15:51:01 UTC
+INFO:__main__:------------------------------------------------------------
+INFO:__main__:📧 Checking for email replies...
+INFO:final_integrated_system:📧 Phase 1: Email Monitoring
+INFO:final_integrated_system:🔍 Checking for new email replies...
+INFO:email_handler.real_email_fetcher:✅ Connected to email inbox
+INFO:email_handler.real_email_fetcher:✅ Fetched 0 recent replies
+INFO:final_integrated_system:📭 No new email replies found
+INFO:__main__:📭 No new emails to process
+INFO:__main__:⏳ Skipping feedback check (not time yet)
+INFO:__main__:⏳ Waiting 60 seconds before next email check...
+INFO:__main__:📡 Received signal 15, shutting down gracefully...
+INFO:__main__:🛑 Stopping Background Workflow System...
+INFO:apscheduler.scheduler:Scheduler has been shut down
+INFO:email_handler.email_scheduler:🛑 Email scheduler stopped
+INFO:__main__:📧 Email scheduler stopped
+INFO:__main__:🗑️ PID file removed: background_workflow.pid
+INFO:__main__:✅ Background workflow system stopped
