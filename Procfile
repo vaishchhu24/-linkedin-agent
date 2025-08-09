@@ -1,1 +1,1 @@
-worker: python automated_workflow.py 
+web: python app.py 
